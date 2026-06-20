@@ -1,0 +1,6 @@
+{
+  "name": "Daily Routine Tracker",
+  "description": "A gamified daily routine tracker featuring profile-tailored presets (Student, Gym, Work), interactive routine and meal logging, high-focus priority management, a built-in time tracker, and a complete XP leveling system to reward consistency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,47 @@
+{
+  "collections": {
+    "users": {
+      "fields": {
+        "stats": {
+          "type": "map"
+        },
+        "routines": {
+          "type": "array"
+        },
+        "priorities": {
+          "type": "array"
+        },
+        "meals": {
+          "type": "array"
+        },
+        "sessions": {
+          "type": "array"
+        },
+        "events": {
+          "type": "array"
+        },
+        "updatedAt": {
+          "type": "number"
+        }
+      },
+      "indexes": []
+    },
+    "credentials": {
+      "fields": {
+        "username": {
+          "type": "string"
+        },
+        "password": {
+          "type": "string"
+        },
+        "userId": {
+          "type": "string"
+        },
+        "createdAt": {
+          "type": "number"
+        }
+      },
+      "indexes": []
+    }
+  }
+}
